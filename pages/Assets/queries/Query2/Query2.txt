@@ -1,0 +1,1 @@
+SELECT * FROM public."room_db" LIMIT 10;
